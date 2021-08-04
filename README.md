@@ -13,4 +13,7 @@ After this it will generate a huffman encoded text file.
 And this text file is used to decode the image back to original size.......
 
 ----------------------------------------------------------------------------------------------------------------------
-Intall PyQt5, PILLOW
+Steps to run the application..
+
+Intall PyQt5, PILLOW pythpon libraries.
+You have to run app.py
