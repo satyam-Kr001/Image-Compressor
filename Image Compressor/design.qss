@@ -1,0 +1,84 @@
+#main_window
+{
+    background-color:#00CED1;
+}
+#back_button
+{
+    color : black;
+    font-weight : bold;
+    font-size : 25px;
+    border-radius: 5px;
+}
+#back_button:hover
+{
+    background-color : #00CED1;
+    color : #202020;
+}
+#bubble
+{
+    background-color: white;
+    min-width: 300px;
+    min-height: 250px;
+    max-width: 300px;
+    max-height: 125px;
+    border-radius: 20px;
+}
+
+#bubble_expanded
+{
+    background-color: white;
+    min-width: 300px;
+    min-height: 350px;
+    max-width: 300px;
+    max-height: 350px;
+    border-radius: 20px;
+}
+#bubble_heading
+{ 
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+#path_text
+{
+    max-width: 170px;
+    min-width: 170px;
+    color: #202020;
+}
+#bubble_para
+{
+    color: grey;
+    font-size: 14px;
+}
+#Quality_path_text
+{
+    max-width: 100px;
+    min-width: 100px;
+    color: #202020;
+}
+#browse_button
+{
+    max-width: 35px;
+    min-width: 35px;
+    color : black;
+}
+#compress_button
+{
+    background-color: white;
+    border:2px solid black;
+    padding : 8px;
+    border-radius:8px;
+}
+#compress_button:hover
+{
+    background-color: white;
+    color: #00CED1;
+}
+#quality_combo
+{
+    color : #00CED1;
+}
+#status{
+    font-weight : bold;
+}
+
